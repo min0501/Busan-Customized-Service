@@ -28,9 +28,7 @@
 <br/>
 
 ## 태블로
-<div style="width: 800px; height: 600px; overflow: hidden;">
-  <iframe src="https://public.tableau.com/views/_16757693053080/2?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width="800" height="600"></iframe>
-</div>
+[My Tableau Public Dashboard](https://public.tableau.com/views/_16757693053080/2?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
